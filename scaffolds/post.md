@@ -3,19 +3,12 @@ title: {{ title }}
 date: {{ date }}
 tags:
 categories:
+- 卷积CNN
+- Transformer
 keywords:
 description:
 top_img:
-comments: 
+comments: true
 cover:
-toc:
-toc_number:
-copyright:
 copyright_author: ChaucerG
-copyright_author_href:
-copyright_url:
-copyright_info:
-katex:
-aplayer:
-aside:
 ---
